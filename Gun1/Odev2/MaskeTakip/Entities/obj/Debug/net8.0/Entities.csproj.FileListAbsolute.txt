@@ -1,0 +1,11 @@
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Entities/bin/Debug/net8.0/Entities.deps.json
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Entities/bin/Debug/net8.0/Entities.dll
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Entities/bin/Debug/net8.0/Entities.pdb
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Entities/obj/Debug/net8.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Entities/obj/Debug/net8.0/Entities.AssemblyInfoInputs.cache
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Entities/obj/Debug/net8.0/Entities.AssemblyInfo.cs
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Entities/obj/Debug/net8.0/Entities.csproj.CoreCompileInputs.cache
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Entities/obj/Debug/net8.0/Entities.dll
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Entities/obj/Debug/net8.0/refint/Entities.dll
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Entities/obj/Debug/net8.0/Entities.pdb
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Entities/obj/Debug/net8.0/ref/Entities.dll

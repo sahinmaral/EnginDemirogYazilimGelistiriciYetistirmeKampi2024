@@ -1,0 +1,15 @@
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Business/obj/Debug/net8.0/Business.csproj.AssemblyReference.cache
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Business/obj/Debug/net8.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Business/obj/Debug/net8.0/Business.AssemblyInfoInputs.cache
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Business/obj/Debug/net8.0/Business.AssemblyInfo.cs
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Business/obj/Debug/net8.0/Business.csproj.CoreCompileInputs.cache
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Business/bin/Debug/net8.0/Business.deps.json
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Business/bin/Debug/net8.0/Business.dll
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Business/bin/Debug/net8.0/Business.pdb
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Business/bin/Debug/net8.0/Entities.dll
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Business/bin/Debug/net8.0/Entities.pdb
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Business/obj/Debug/net8.0/Business.csproj.CopyComplete
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Business/obj/Debug/net8.0/Business.dll
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Business/obj/Debug/net8.0/refint/Business.dll
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Business/obj/Debug/net8.0/Business.pdb
+/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Gun1/Odev2/MaskeTakip/Business/obj/Debug/net8.0/ref/Business.dll
