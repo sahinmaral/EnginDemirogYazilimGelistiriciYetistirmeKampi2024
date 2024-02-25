@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.ConsoleApp/KodlamaIOSimulation.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.Business/KodlamaIOSimulation.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.Business/KodlamaIOSimulation.Business.csproj",
+        "projectName": "KodlamaIOSimulation.Business",
+        "projectPath": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.Business/KodlamaIOSimulation.Business.csproj",
+        "packagesPath": "/home/sahinmaral/.nuget/packages/",
+        "outputPath": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sahinmaral/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.DataAccess/KodlamaIOSimulation.DataAccess.csproj": {
+                "projectPath": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.DataAccess/KodlamaIOSimulation.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.ConsoleApp/KodlamaIOSimulation.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.ConsoleApp/KodlamaIOSimulation.ConsoleApp.csproj",
+        "projectName": "KodlamaIOSimulation.ConsoleApp",
+        "projectPath": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.ConsoleApp/KodlamaIOSimulation.ConsoleApp.csproj",
+        "packagesPath": "/home/sahinmaral/.nuget/packages/",
+        "outputPath": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.ConsoleApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sahinmaral/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.Business/KodlamaIOSimulation.Business.csproj": {
+                "projectPath": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.Business/KodlamaIOSimulation.Business.csproj"
+              },
+              "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.DataAccess/KodlamaIOSimulation.DataAccess.csproj": {
+                "projectPath": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.DataAccess/KodlamaIOSimulation.DataAccess.csproj"
+              },
+              "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.Entities/KodlamaIOSimulation.Entities.csproj": {
+                "projectPath": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.Entities/KodlamaIOSimulation.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ConsoleTables": {
+              "target": "Package",
+              "version": "[2.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.DataAccess/KodlamaIOSimulation.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.DataAccess/KodlamaIOSimulation.DataAccess.csproj",
+        "projectName": "KodlamaIOSimulation.DataAccess",
+        "projectPath": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.DataAccess/KodlamaIOSimulation.DataAccess.csproj",
+        "packagesPath": "/home/sahinmaral/.nuget/packages/",
+        "outputPath": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sahinmaral/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.Entities/KodlamaIOSimulation.Entities.csproj": {
+                "projectPath": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.Entities/KodlamaIOSimulation.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.Entities/KodlamaIOSimulation.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.Entities/KodlamaIOSimulation.Entities.csproj",
+        "projectName": "KodlamaIOSimulation.Entities",
+        "projectPath": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.Entities/KodlamaIOSimulation.Entities.csproj",
+        "packagesPath": "/home/sahinmaral/.nuget/packages/",
+        "outputPath": "/home/sahinmaral/Desktop/EnginDemirogYazilimGelistiriciYetistirmeKampi2024/Hafta2/Odev3/KodlamaIOSimulation/KodlamaIOSimulation.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sahinmaral/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

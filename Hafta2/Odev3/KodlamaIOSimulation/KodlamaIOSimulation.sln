@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodlamaIOSimulation.Business", "KodlamaIOSimulation.Business\KodlamaIOSimulation.Business.csproj", "{B0B55730-049D-4323-846B-2C52BB93B655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodlamaIOSimulation.DataAccess", "KodlamaIOSimulation.DataAccess\KodlamaIOSimulation.DataAccess.csproj", "{A82A3970-33EB-4334-996A-03CF1DAF1A62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodlamaIOSimulation.ConsoleApp", "KodlamaIOSimulation.ConsoleApp\KodlamaIOSimulation.ConsoleApp.csproj", "{B878FD72-D53F-4859-B8EB-99F0884A4239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodlamaIOSimulation.Entities", "KodlamaIOSimulation.Entities\KodlamaIOSimulation.Entities.csproj", "{0E73980F-6DF7-4DF3-B118-344B3E85652C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0B55730-049D-4323-846B-2C52BB93B655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B55730-049D-4323-846B-2C52BB93B655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B55730-049D-4323-846B-2C52BB93B655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B55730-049D-4323-846B-2C52BB93B655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A82A3970-33EB-4334-996A-03CF1DAF1A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82A3970-33EB-4334-996A-03CF1DAF1A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82A3970-33EB-4334-996A-03CF1DAF1A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82A3970-33EB-4334-996A-03CF1DAF1A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B878FD72-D53F-4859-B8EB-99F0884A4239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B878FD72-D53F-4859-B8EB-99F0884A4239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B878FD72-D53F-4859-B8EB-99F0884A4239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B878FD72-D53F-4859-B8EB-99F0884A4239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E73980F-6DF7-4DF3-B118-344B3E85652C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E73980F-6DF7-4DF3-B118-344B3E85652C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E73980F-6DF7-4DF3-B118-344B3E85652C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E73980F-6DF7-4DF3-B118-344B3E85652C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
