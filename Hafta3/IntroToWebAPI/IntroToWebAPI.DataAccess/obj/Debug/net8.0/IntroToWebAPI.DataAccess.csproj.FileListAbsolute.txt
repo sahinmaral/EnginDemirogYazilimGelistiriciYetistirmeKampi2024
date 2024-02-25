@@ -1,0 +1,17 @@
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/bin/Debug/net8.0/IntroToWebAPI.DataAccess.deps.json
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/bin/Debug/net8.0/IntroToWebAPI.DataAccess.dll
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/bin/Debug/net8.0/IntroToWebAPI.DataAccess.pdb
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/bin/Debug/net8.0/IntroToWebAPI.Core.dll
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/bin/Debug/net8.0/IntroToWebAPI.Entities.dll
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/bin/Debug/net8.0/IntroToWebAPI.Entities.pdb
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/bin/Debug/net8.0/IntroToWebAPI.Core.pdb
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/obj/Debug/net8.0/IntroToWebAPI.DataAccess.csproj.AssemblyReference.cache
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/obj/Debug/net8.0/IntroToWebAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/obj/Debug/net8.0/IntroToWebAPI.DataAccess.AssemblyInfoInputs.cache
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/obj/Debug/net8.0/IntroToWebAPI.DataAccess.AssemblyInfo.cs
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/obj/Debug/net8.0/IntroToWebAPI.DataAccess.csproj.CoreCompileInputs.cache
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/obj/Debug/net8.0/IntroToWebAPI.DataAccess.csproj.CopyComplete
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/obj/Debug/net8.0/IntroToWebAPI.DataAccess.dll
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/obj/Debug/net8.0/refint/IntroToWebAPI.DataAccess.dll
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/obj/Debug/net8.0/IntroToWebAPI.DataAccess.pdb
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/obj/Debug/net8.0/ref/IntroToWebAPI.DataAccess.dll

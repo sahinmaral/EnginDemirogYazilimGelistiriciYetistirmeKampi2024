@@ -1,0 +1,235 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Business/IntroToWebAPI.Business.csproj": {}
+  },
+  "projects": {
+    "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Business/IntroToWebAPI.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Business/IntroToWebAPI.Business.csproj",
+        "projectName": "IntroToWebAPI.Business",
+        "projectPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Business/IntroToWebAPI.Business.csproj",
+        "packagesPath": "/home/sahinmaral/.nuget/packages/",
+        "outputPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sahinmaral/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/IntroToWebAPI.DataAccess.csproj": {
+                "projectPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/IntroToWebAPI.DataAccess.csproj"
+              },
+              "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/IntroToWebAPI.Entities.csproj": {
+                "projectPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/IntroToWebAPI.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/IntroToWebAPI.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/IntroToWebAPI.Core.csproj",
+        "projectName": "IntroToWebAPI.Core",
+        "projectPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/IntroToWebAPI.Core.csproj",
+        "packagesPath": "/home/sahinmaral/.nuget/packages/",
+        "outputPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sahinmaral/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/IntroToWebAPI.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/IntroToWebAPI.DataAccess.csproj",
+        "projectName": "IntroToWebAPI.DataAccess",
+        "projectPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/IntroToWebAPI.DataAccess.csproj",
+        "packagesPath": "/home/sahinmaral/.nuget/packages/",
+        "outputPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sahinmaral/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/IntroToWebAPI.Entities.csproj": {
+                "projectPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/IntroToWebAPI.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/IntroToWebAPI.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/IntroToWebAPI.Entities.csproj",
+        "projectName": "IntroToWebAPI.Entities",
+        "projectPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/IntroToWebAPI.Entities.csproj",
+        "packagesPath": "/home/sahinmaral/.nuget/packages/",
+        "outputPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sahinmaral/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/IntroToWebAPI.Core.csproj": {
+                "projectPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/IntroToWebAPI.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

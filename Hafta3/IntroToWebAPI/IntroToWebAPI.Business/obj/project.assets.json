@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "IntroToWebAPI.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/IntroToWebAPI.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IntroToWebAPI.Core.dll": {}
+        }
+      },
+      "IntroToWebAPI.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "IntroToWebAPI.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IntroToWebAPI.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IntroToWebAPI.DataAccess.dll": {}
+        }
+      },
+      "IntroToWebAPI.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "IntroToWebAPI.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IntroToWebAPI.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IntroToWebAPI.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntroToWebAPI.Core/1.0.0": {
+      "type": "project",
+      "path": "../IntroToWebAPI.Core/IntroToWebAPI.Core.csproj",
+      "msbuildProject": "../IntroToWebAPI.Core/IntroToWebAPI.Core.csproj"
+    },
+    "IntroToWebAPI.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../IntroToWebAPI.DataAccess/IntroToWebAPI.DataAccess.csproj",
+      "msbuildProject": "../IntroToWebAPI.DataAccess/IntroToWebAPI.DataAccess.csproj"
+    },
+    "IntroToWebAPI.Entities/1.0.0": {
+      "type": "project",
+      "path": "../IntroToWebAPI.Entities/IntroToWebAPI.Entities.csproj",
+      "msbuildProject": "../IntroToWebAPI.Entities/IntroToWebAPI.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "IntroToWebAPI.DataAccess >= 1.0.0",
+      "IntroToWebAPI.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/sahinmaral/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Business/IntroToWebAPI.Business.csproj",
+      "projectName": "IntroToWebAPI.Business",
+      "projectPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Business/IntroToWebAPI.Business.csproj",
+      "packagesPath": "/home/sahinmaral/.nuget/packages/",
+      "outputPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Business/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/sahinmaral/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/IntroToWebAPI.DataAccess.csproj": {
+              "projectPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.DataAccess/IntroToWebAPI.DataAccess.csproj"
+            },
+            "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/IntroToWebAPI.Entities.csproj": {
+              "projectPath": "/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/IntroToWebAPI.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

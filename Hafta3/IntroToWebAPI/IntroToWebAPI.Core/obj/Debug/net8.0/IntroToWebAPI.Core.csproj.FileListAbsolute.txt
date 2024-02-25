@@ -1,0 +1,11 @@
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/bin/Debug/net8.0/IntroToWebAPI.Core.deps.json
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/bin/Debug/net8.0/IntroToWebAPI.Core.dll
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/bin/Debug/net8.0/IntroToWebAPI.Core.pdb
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/obj/Debug/net8.0/IntroToWebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/obj/Debug/net8.0/IntroToWebAPI.Core.AssemblyInfoInputs.cache
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/obj/Debug/net8.0/IntroToWebAPI.Core.AssemblyInfo.cs
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/obj/Debug/net8.0/IntroToWebAPI.Core.csproj.CoreCompileInputs.cache
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/obj/Debug/net8.0/IntroToWebAPI.Core.dll
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/obj/Debug/net8.0/refint/IntroToWebAPI.Core.dll
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/obj/Debug/net8.0/IntroToWebAPI.Core.pdb
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Core/obj/Debug/net8.0/ref/IntroToWebAPI.Core.dll

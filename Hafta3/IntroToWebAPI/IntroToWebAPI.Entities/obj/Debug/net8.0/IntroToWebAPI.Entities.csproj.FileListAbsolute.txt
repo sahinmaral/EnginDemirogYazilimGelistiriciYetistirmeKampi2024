@@ -1,0 +1,15 @@
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/bin/Debug/net8.0/IntroToWebAPI.Entities.deps.json
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/bin/Debug/net8.0/IntroToWebAPI.Entities.dll
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/bin/Debug/net8.0/IntroToWebAPI.Entities.pdb
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/bin/Debug/net8.0/IntroToWebAPI.Core.dll
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/bin/Debug/net8.0/IntroToWebAPI.Core.pdb
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/obj/Debug/net8.0/IntroToWebAPI.Entities.csproj.AssemblyReference.cache
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/obj/Debug/net8.0/IntroToWebAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/obj/Debug/net8.0/IntroToWebAPI.Entities.AssemblyInfoInputs.cache
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/obj/Debug/net8.0/IntroToWebAPI.Entities.AssemblyInfo.cs
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/obj/Debug/net8.0/IntroToWebAPI.Entities.csproj.CoreCompileInputs.cache
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/obj/Debug/net8.0/IntroToWebAPI.Entities.csproj.CopyComplete
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/obj/Debug/net8.0/IntroToWebAPI.Entities.dll
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/obj/Debug/net8.0/refint/IntroToWebAPI.Entities.dll
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/obj/Debug/net8.0/IntroToWebAPI.Entities.pdb
+/home/sahinmaral/Desktop/IntroToWebAPI/IntroToWebAPI.Entities/obj/Debug/net8.0/ref/IntroToWebAPI.Entities.dll

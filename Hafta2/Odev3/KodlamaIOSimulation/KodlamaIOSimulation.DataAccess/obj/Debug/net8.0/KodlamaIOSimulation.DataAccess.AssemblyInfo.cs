@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KodlamaIOSimulation.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9526e4d7d570b824e6c4a01413d8799438d5e23e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+274dcb1b401510c87900a5740912b9ddaa1d9391")]
 [assembly: System.Reflection.AssemblyProductAttribute("KodlamaIOSimulation.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KodlamaIOSimulation.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
